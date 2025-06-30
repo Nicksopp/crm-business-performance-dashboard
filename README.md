@@ -12,10 +12,9 @@ This project simulates a real-world Zoho CRM analytics workflow — from raw dat
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Overview](![Screenshot 2025-06-30 172940](https://github.com/user-attachments/assets/d5402872-2753-42d0-bb6e-fa66d8ee97fa)
-)
+## 📊 Dashboard Preview (https://analytics.zoho.in/open-view/449972000000004192)
+https://analytics.zoho.in/open-view/449972000000004192
+ ![Screenshot 2025-06-30 172940](https://github.com/user-attachments/assets/2bfe086c-73d8-4c8d-bc71-555fd626b15e)
 
 ## 📁 Project Structure
 
